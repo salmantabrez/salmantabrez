@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Salman 👋
 
-<!--
-**salmantabrez/salmantabrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔧 **Cloud Automation Engineer** at Cloud Tech Team
+- 🌐 **AWS Certified Solutions Architect - Professional**
+- 🛠️ Specializing in **Multi-Cloud Architectures**, **Terraform**, **CI/CD**, and **Cloud Security**
+- 🎓 MS in Information Technology | Governors State University
+- 📜 Researcher in **AI and Cybersecurity**
 
-Here are some ideas to get you started:
+## 🏗️ Skills
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Tools**: Terraform, Jenkins, Docker, Kubernetes
+- **Security**: IAM, GDPR, SOC 2, ISO 27001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+- **Multi-Cloud CI/CD Pipeline with Terraform**: Automated infrastructure provisioning.
+- **AWS CloudWatch Dashboard**: Real-time monitoring and alerts for distributed systems.
+
+## 📫 Let's Connect!
+- https://www.linkedin.com/in/salmantabrez/
